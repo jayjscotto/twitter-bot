@@ -43,7 +43,7 @@ const botTweet = () => {
             tweetObj.location =tweets.statuses[tweet].user.location;
 
             //push the object to the array IF the tweet was created with a location
-            if (tweetObj.location !== null) {
+            if (tweetObj.location !== undefined) {
                 tweetList.push(tweetObj);
             }
         }
