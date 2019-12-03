@@ -18,7 +18,7 @@ var tweetList = [];
 var tweetHistory = [];
 
 
-const coldTweet = () => {
+const botTweet = () => {
     //run a search for 'so cold'
     client.get('search/tweets', {q: 'so cold'}, function(error, tweets, response) {
         
@@ -67,38 +67,35 @@ const coldTweet = () => {
             return statements[randomStatement];
         }
 
-        //index of random tweet
-        randomTweet = generateRandom(tweetList);
+        //boolean check whether selected tweet for bot to read is unique
+        var uniqueTweet = false;
 
-        //tweet selected from tweetList at random index
-        chosenTweet = tweetList[randomTweet];
+        while (!uniqueTweet) {
+            //index of random tweet
+            randomTweet = generateRandom(tweetList);
 
-        if (!(chosenTweet in tweetHistory)) {
-            //add selected tweet to history array to keep track of potential duplicates
-            tweetHistory.push(chosenTweet);
+            //tweet selected from tweetList at random index
+            chosenTweet = tweetList[randomTweet];
 
-            //bot tweet
-            client.post('statuses/update', {status: tweetGen(chosenTweet)}, function(error, tweet, response) {
-                if (!error) {
-                    console.log('tweeted!');
-                    // //write bot tweet to text file for records
-                    // fs.appendFile('bot-tweets.txt', `\n${tweet.created_at} Tweet: ${tweet.text}`, (err) => {
-                    //     if (err) throw err;
-                    //     console.log(`Tweet added to bot-tweets list`)
-                    //     console.log('tweeted!');
-                    // });
-                }
-            });
+            if (!(chosenTweet in tweetHistory)) {
+
+                //add selected tweet to history array to keep track of potential duplicates
+                tweetHistory.push(chosenTweet);
+
+                //exit condition for while loop
+                uniqueTweet = true;
+
+                //bot tweet
+                client.post('statuses/update', {status: tweetGen(chosenTweet)}, function(error, tweet, response) {
+                    if (!error) {
+                        console.log('tweeted!');
+                    }
+                });
+            }
         }
-        
-        // //writes to file with history
-        // fs.appendFile('tweet_history.json', JSON.stringify(tweetHistory, null, '\t'), (err) => {
-        //     if (err) throw err;
-        //     console.log('New tweet list!');
-        // });
-
     });
 }
 
-coldTweet();
-setInterval(coldTweet, 900000);
+
+botTweet();
+setInterval(botTweet, 900000);
