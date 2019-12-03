@@ -67,31 +67,23 @@ const botTweet = () => {
             return statements[randomStatement];
         }
 
-        //boolean check whether selected tweet for bot to read is unique
-        var uniqueTweet = false;
+        //index of random tweet
+        randomTweet = generateRandom(tweetList);
 
-        while (!uniqueTweet) {
-            //index of random tweet
-            randomTweet = generateRandom(tweetList);
+        //tweet selected from tweetList at random index
+        chosenTweet = tweetList[randomTweet];
 
-            //tweet selected from tweetList at random index
-            chosenTweet = tweetList[randomTweet];
+        if (!(chosenTweet in tweetHistory)) {
 
-            if (!(chosenTweet in tweetHistory)) {
+            //add selected tweet to history array to keep track of potential duplicates
+            tweetHistory.push(chosenTweet);
 
-                //add selected tweet to history array to keep track of potential duplicates
-                tweetHistory.push(chosenTweet);
-
-                //exit condition for while loop
-                uniqueTweet = true;
-
-                //bot tweet
-                client.post('statuses/update', {status: tweetGen(chosenTweet)}, function(error, tweet, response) {
-                    if (!error) {
-                        console.log('tweeted!');
-                    }
-                });
-            }
+            //bot tweet
+            client.post('statuses/update', {status: tweetGen(chosenTweet)}, function(error, tweet, response) {
+                if (!error) {
+                    console.log('tweeted!');
+                }
+            });
         }
     });
 }
