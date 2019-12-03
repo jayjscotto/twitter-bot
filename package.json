@@ -1,0 +1,24 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Twitter Bot for Randomly Selecting Tweets about how cold it is and where it's cold!",
+  "main": "bot.js",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayjscotto/twitter-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayjscotto/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/jayjscotto/twitter-bot#readme"
+}
