@@ -4,6 +4,7 @@
   "description": "Twitter Bot for Randomly Selecting Tweets about how cold it is and where it's cold!",
   "main": "bot.js",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "twitter": "^1.7.1"
   },
   "devDependencies": {},

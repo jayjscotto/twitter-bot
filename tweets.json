@@ -1,0 +1,2187 @@
+{
+	"statuses": [
+		{
+			"created_at": "Tue Dec 03 20:11:53 +0000 2019",
+			"id": 1201957248131571700,
+			"id_str": "1201957248131571712",
+			"text": "RT @whaleswarrior: When 3 Patriot sisters get together with a Message of Hope,\nJoy is not normally not far away.\n#LizCrokin @GodandCountry1…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LizCrokin",
+						"indices": [
+							113,
+							123
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "whaleswarrior",
+						"name": "Veronica P Wolski",
+						"id": 2346311317,
+						"id_str": "2346311317",
+						"indices": [
+							3,
+							17
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 777287120981364700,
+				"id_str": "777287120981364736",
+				"name": "God Bless America⭐️⭐️⭐️",
+				"screen_name": "GodandCountry11",
+				"location": "",
+				"description": "#WWG1WGA #GreatAwakening #Qanon Trusting The Plan since 2Q17 ✌🏻 Texan 🇺🇸 Exonerate Gen Flynn 🇺🇸 #FREELIZCROKIN Missing Persons= Silent Epidemic - WAKE UP!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7740,
+				"friends_count": 2697,
+				"listed_count": 18,
+				"created_at": "Sat Sep 17 23:24:25 +0000 2016",
+				"favourites_count": 58236,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23745,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1130909371997851648/9_uYcPuX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130909371997851648/9_uYcPuX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/777287120981364736/1526917991",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Tue Dec 03 20:07:42 +0000 2019",
+				"id": 1201956194342113300,
+				"id_str": "1201956194342113280",
+				"text": "When 3 Patriot sisters get together with a Message of Hope,\nJoy is not normally not far away.\n#LizCrokin… https://t.co/49OOWgd9J7",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "LizCrokin",
+							"indices": [
+								94,
+								104
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/49OOWgd9J7",
+							"expanded_url": "https://twitter.com/i/web/status/1201956194342113280",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2346311317,
+					"id_str": "2346311317",
+					"name": "Veronica P Wolski",
+					"screen_name": "whaleswarrior",
+					"location": "Chicago, IL",
+					"description": "Servant to the cetaceans, and to those that guard them.\r\n\r\nWork to find ways to help them find freedom and safety for those already free.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 11448,
+					"friends_count": 633,
+					"listed_count": 52,
+					"created_at": "Sun Feb 16 05:36:16 +0000 2014",
+					"favourites_count": 21097,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 28581,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1098678408362557441/fPQSSiaa_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098678408362557441/fPQSSiaa_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2346311317/1550780664",
+					"profile_link_color": "9266CC",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 5,
+				"favorite_count": 11,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:53 +0000 2019",
+			"id": 1201957244906221600,
+			"id_str": "1201957244906221568",
+			"text": "@frolickingfood That’s been me today too. I have never suffered so much from the cold as I do now 😩",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "frolickingfood",
+						"name": "Alice Little",
+						"id": 34908970,
+						"id_str": "34908970",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1201956708786020400,
+			"in_reply_to_status_id_str": "1201956708786020355",
+			"in_reply_to_user_id": 34908970,
+			"in_reply_to_user_id_str": "34908970",
+			"in_reply_to_screen_name": "frolickingfood",
+			"user": {
+				"id": 19246645,
+				"id_str": "19246645",
+				"name": "Rachel Ingram",
+				"screen_name": "msrachelingram",
+				"location": "Cotswolds, UK",
+				"description": "Freelance #copywriter. Helicopter pilot who also flies small planes. Dog person. Most at home in the countryside with Radio 4. Blog: https://t.co/yJ5LfPwKUx",
+				"url": "https://t.co/EK3O9LBnzG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EK3O9LBnzG",
+								"expanded_url": "http://www.rachel-ingram.co.uk",
+								"display_url": "rachel-ingram.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/yJ5LfPwKUx",
+								"expanded_url": "http://www.cosylife.co.uk",
+								"display_url": "cosylife.co.uk",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2154,
+				"friends_count": 534,
+				"listed_count": 127,
+				"created_at": "Tue Jan 20 17:37:12 +0000 2009",
+				"favourites_count": 12273,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32373,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1157550292331900928/9AZ1BWE1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157550292331900928/9AZ1BWE1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19246645/1567954770",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:53 +0000 2019",
+			"id": 1201957244721516500,
+			"id_str": "1201957244721516544",
+			"text": "@waydamin body so cold😍😭 bitch I cant wait to get my degree and make good money cause this azz finna be🤪",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "waydamin",
+						"name": "JAYDA WAYDA",
+						"id": 1136516840740536300,
+						"id_str": "1136516840740536320",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1136516840740536300,
+			"in_reply_to_user_id_str": "1136516840740536320",
+			"in_reply_to_screen_name": "waydamin",
+			"user": {
+				"id": 714629616007155700,
+				"id_str": "714629616007155712",
+				"name": "simply_bre💖",
+				"screen_name": "breah_clay",
+				"location": "Akron, OH",
+				"description": "💗#CSU20💄",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 916,
+				"friends_count": 603,
+				"listed_count": 2,
+				"created_at": "Tue Mar 29 01:45:52 +0000 2016",
+				"favourites_count": 6357,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9497,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1197328341180833792/I9TZ33cO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197328341180833792/I9TZ33cO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/714629616007155712/1574300297",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:52 +0000 2019",
+			"id": 1201957241093578800,
+			"id_str": "1201957241093578755",
+			"text": "RT @FennelSteuert: We're supposed to be mooncalfs to still be here, where it can be so very cold and we're packed in like ice cubes. Some e…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FennelSteuert",
+						"name": "Fennel",
+						"id": 822668512296570900,
+						"id_str": "822668512296570880",
+						"indices": [
+							3,
+							17
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 959885521844625400,
+				"id_str": "959885521844625408",
+				"name": "Tafari Nugent",
+				"screen_name": "NugentTafari",
+				"location": "El Paso, TX",
+				"description": "#BraveWrite #vss365.                  Writer by trade. MFA UTEP. Art, Movies, Photography, Great Literature, Space News, Weird Science",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4108,
+				"friends_count": 3393,
+				"listed_count": 35,
+				"created_at": "Sat Feb 03 20:25:17 +0000 2018",
+				"favourites_count": 159358,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4121,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972209274729455618/ptHem_fa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972209274729455618/ptHem_fa_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Tue Dec 03 10:50:22 +0000 2019",
+				"id": 1201815935428046800,
+				"id_str": "1201815935428046848",
+				"text": "We're supposed to be mooncalfs to still be here, where it can be so very cold and we're packed in like ice cubes. S… https://t.co/ghDsrFYIAw",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/ghDsrFYIAw",
+							"expanded_url": "https://twitter.com/i/web/status/1201815935428046848",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 822668512296570900,
+					"id_str": "822668512296570880",
+					"name": "Fennel",
+					"screen_name": "FennelSteuert",
+					"location": "",
+					"description": "'Don't you tell me to smile. You stick around I'll make it worth your while.' - BB /\nAuthor. Non-Oxbridgian. Header art © Lena Finch .. books: https://t.co/ye69Poukt7",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/ye69Poukt7",
+									"expanded_url": "http://ow.ly/chCQ50kfPAR",
+									"display_url": "ow.ly/chCQ50kfPAR",
+									"indices": [
+										143,
+										166
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 343,
+					"friends_count": 346,
+					"listed_count": 2,
+					"created_at": "Sat Jan 21 04:53:52 +0000 2017",
+					"favourites_count": 9076,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 2096,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1055706018829656069/ojnEu1th_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055706018829656069/ojnEu1th_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/822668512296570880/1547036231",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 7,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:49 +0000 2019",
+			"id": 1201957227663364000,
+			"id_str": "1201957227663364097",
+			"text": "RT @saturnruled: get cold outside so i can get active",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "saturnruled",
+						"name": "jord*n",
+						"id": 912501726057508900,
+						"id_str": "912501726057508864",
+						"indices": [
+							3,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 740662214219026400,
+				"id_str": "740662214219026432",
+				"name": "Alex Guzman",
+				"screen_name": "alexguzman_1",
+				"location": "Houston, TX",
+				"description": "@maceywestall ❤️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 241,
+				"friends_count": 242,
+				"listed_count": 0,
+				"created_at": "Wed Jun 08 21:50:07 +0000 2016",
+				"favourites_count": 9100,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5166,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1116340326917185537/A0iFA5j0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116340326917185537/A0iFA5j0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/740662214219026432/1563242394",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Tue Dec 03 02:21:50 +0000 2019",
+				"id": 1201687961437442000,
+				"id_str": "1201687961437442051",
+				"text": "get cold outside so i can get active",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 912501726057508900,
+					"id_str": "912501726057508864",
+					"name": "jord*n",
+					"screen_name": "saturnruled",
+					"location": "♄",
+					"description": "learn your karmic lessons",
+					"url": "https://t.co/cdGWxnBTod",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/cdGWxnBTod",
+									"expanded_url": "https://youtu.be/BzMeUIC6sho",
+									"display_url": "youtu.be/BzMeUIC6sho",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 751,
+					"friends_count": 399,
+					"listed_count": 9,
+					"created_at": "Tue Sep 26 02:18:59 +0000 2017",
+					"favourites_count": 23117,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 6616,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1199460225687965697/tO1MCfIK_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199460225687965697/tO1MCfIK_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/912501726057508864/1573619073",
+					"profile_link_color": "FAB81E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:48 +0000 2019",
+			"id": 1201957226073772000,
+			"id_str": "1201957226073772038",
+			"text": "RT @AnriOkita_real: 風邪引いて辛いので\n楽しかった京都の金閣寺動画upしよう。\n@AiSayama \n\nCatch a cold and it’s so hard time now.\nSo I’ll upload this Kinkaku Temple mo…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AnriOkita_real",
+						"name": "沖田杏梨 Anri Okita",
+						"id": 1458342684,
+						"id_str": "1458342684",
+						"indices": [
+							3,
+							18
+						]
+					},
+					{
+						"screen_name": "AiSayama",
+						"name": "佐山愛 sayama ai",
+						"id": 129408561,
+						"id_str": "129408561",
+						"indices": [
+							50,
+							59
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "ja",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 620445756,
+				"id_str": "620445756",
+				"name": "cameron ratliff",
+				"screen_name": "cameronratliff2",
+				"location": "Washington Dc",
+				"description": "regular dude that enjoys making toys",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 292,
+				"friends_count": 1221,
+				"listed_count": 3,
+				"created_at": "Wed Jun 27 21:36:24 +0000 2012",
+				"favourites_count": 93638,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32872,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012865579517186049/uHl-jcV1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012865579517186049/uHl-jcV1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/620445756/1384644490",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Tue Dec 03 10:01:25 +0000 2019",
+				"id": 1201803618837381000,
+				"id_str": "1201803618837381120",
+				"text": "風邪引いて辛いので\n楽しかった京都の金閣寺動画upしよう。\n@AiSayama \n\nCatch a cold and it’s so hard time now.\nSo I’ll upload this Kinkaku Templ… https://t.co/ququ9BjsGi",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "AiSayama",
+							"name": "佐山愛 sayama ai",
+							"id": 129408561,
+							"id_str": "129408561",
+							"indices": [
+								30,
+								39
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/ququ9BjsGi",
+							"expanded_url": "https://twitter.com/i/web/status/1201803618837381120",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "ja",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1458342684,
+					"id_str": "1458342684",
+					"name": "沖田杏梨 Anri Okita",
+					"screen_name": "AnriOkita_real",
+					"location": "Japanese Artist 英国出身UK",
+					"description": "Rebornしました。 クリエイター活動中🌈Insta➡︎https://t.co/Grl72kcMTB Love➡︎https://t.co/b98vgpLskx Contact➡︎atelier.anri.official@gmail.com ★★裏垢@AkehaPlace",
+					"url": "https://t.co/olf7HHtIwt",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/olf7HHtIwt",
+									"expanded_url": "https://m.youtube.com/channel/UCd_LTEbA7FF1wfVY7HhIjbA",
+									"display_url": "m.youtube.com/channel/UCd_LT…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/Grl72kcMTB",
+									"expanded_url": "http://Instagram.com/anri_okita",
+									"display_url": "Instagram.com/anri_okita",
+									"indices": [
+										29,
+										52
+									]
+								},
+								{
+									"url": "https://t.co/b98vgpLskx",
+									"expanded_url": "https://onlyfans.com/anriokita_real",
+									"display_url": "onlyfans.com/anriokita_real",
+									"indices": [
+										59,
+										82
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 333950,
+					"friends_count": 276,
+					"listed_count": 1702,
+					"created_at": "Sun May 26 00:26:32 +0000 2013",
+					"favourites_count": 39079,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 45152,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1183940352803139586/ugb4RxR9_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183940352803139586/ugb4RxR9_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1458342684/1557934301",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 60,
+				"favorite_count": 1230,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ja"
+			},
+			"is_quote_status": false,
+			"retweet_count": 60,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:38 +0000 2019",
+			"id": 1201957185233793000,
+			"id_str": "1201957185233793027",
+			"text": "RT @queensofthewild: It's my first day back on cam after a really shitty cold so my voice is still kinda gravelly. On the plus side, if you…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "queensofthewild",
+						"name": "Mxtress Valleycat - See pinned for filming dates!",
+						"id": 218273430,
+						"id_str": "218273430",
+						"indices": [
+							3,
+							19
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 774733653498851300,
+				"id_str": "774733653498851329",
+				"name": "🎀🎊🎉🎁RT slave 120mph 🎁Promoter🎉🎊🎀",
+				"screen_name": "a120mph",
+				"location": "",
+				"description": "Retweet slave\n\nFeel free to tag me for retweets",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 417,
+				"friends_count": 2097,
+				"listed_count": 1,
+				"created_at": "Sat Sep 10 22:17:51 +0000 2016",
+				"favourites_count": 4315,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5524,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1198139062592425984/_GsnEOEu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198139062592425984/_GsnEOEu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/774733653498851329/1573278338",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Tue Dec 03 15:09:33 +0000 2019",
+				"id": 1201881163834515500,
+				"id_str": "1201881163834515456",
+				"text": "It's my first day back on cam after a really shitty cold so my voice is still kinda gravelly. On the plus side, if… https://t.co/DykGp5rjaa",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/DykGp5rjaa",
+							"expanded_url": "https://twitter.com/i/web/status/1201881163834515456",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 218273430,
+					"id_str": "218273430",
+					"name": "Mxtress Valleycat - See pinned for filming dates!",
+					"screen_name": "queensofthewild",
+					"location": "Washington, UK",
+					"description": "Unapologetic nonbinary Femme Dom and inclusive Feminist.\nFemme Domination, the unnatural chaos.\nThey/ Them\nSee pinned tweet for official links.",
+					"url": "https://t.co/34BFG208j7",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/34BFG208j7",
+									"expanded_url": "http://mxtressvalleycat.com",
+									"display_url": "mxtressvalleycat.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2099,
+					"friends_count": 1505,
+					"listed_count": 46,
+					"created_at": "Sun Nov 21 22:10:18 +0000 2010",
+					"favourites_count": 22901,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 24712,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F2BB79",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1175456291562676224/oidgaEv__normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175456291562676224/oidgaEv__normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/218273430/1569085595",
+					"profile_link_color": "981CEB",
+					"profile_sidebar_border_color": "F26174",
+					"profile_sidebar_fill_color": "F5E580",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 5,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:32 +0000 2019",
+			"id": 1201957159711445000,
+			"id_str": "1201957159711444993",
+			"text": "I legit had to watch someone surrender their 13 year old blind dog to the shelter to spend their last days in a col… https://t.co/JdyOlfYaoU",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JdyOlfYaoU",
+						"expanded_url": "https://twitter.com/i/web/status/1201957159711444993",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1560651648,
+				"id_str": "1560651648",
+				"name": "th*r",
+				"screen_name": "naberrjes",
+				"location": "NY",
+				"description": "I’m Fragile.. But not that fragile",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2919,
+				"friends_count": 292,
+				"listed_count": 73,
+				"created_at": "Mon Jul 01 14:33:18 +0000 2013",
+				"favourites_count": 66794,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 117526,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1198037818561441794/5wwlUcqY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198037818561441794/5wwlUcqY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1560651648/1574469449",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:30 +0000 2019",
+			"id": 1201957149196345300,
+			"id_str": "1201957149196345349",
+			"text": "so cold think i might cry",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1138868654299385900,
+				"id_str": "1138868654299385857",
+				"name": "bilqees ✰ JIN DAY",
+				"screen_name": "d7egu",
+				"location": "she/her | multi ",
+				"description": "bitches be like “stop asking for a taegijoon selca” i will not but i fw u for trying",
+				"url": "https://t.co/STV5xzwYvd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/STV5xzwYvd",
+								"expanded_url": "https://dre-am.carrd.co",
+								"display_url": "dre-am.carrd.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 866,
+				"friends_count": 804,
+				"listed_count": 118,
+				"created_at": "Wed Jun 12 18:00:21 +0000 2019",
+				"favourites_count": 43466,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9026,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1201373715184807936/Lpn-rDP__normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201373715184807936/Lpn-rDP__normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1138868654299385857/1575238717",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:28 +0000 2019",
+			"id": 1201957142263148500,
+			"id_str": "1201957142263148550",
+			"text": "@network_gal @Jeeneree @retiredfirstsgt @AnnKeenan3434 @webfashioner @Cherfan4ever1 @PattiKimble @KaKaKaKatyLady… https://t.co/8CedZFgWlW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "network_gal",
+						"name": "Shari Caligal",
+						"id": 34350123,
+						"id_str": "34350123",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "Jeeneree",
+						"name": "Jeeneree",
+						"id": 881338358168866800,
+						"id_str": "881338358168866817",
+						"indices": [
+							13,
+							22
+						]
+					},
+					{
+						"screen_name": "retiredfirstsgt",
+						"name": "Richard Punko",
+						"id": 405561109,
+						"id_str": "405561109",
+						"indices": [
+							23,
+							39
+						]
+					},
+					{
+						"screen_name": "AnnKeenan3434",
+						"name": "Ann Keenan",
+						"id": 803650444782370800,
+						"id_str": "803650444782370816",
+						"indices": [
+							40,
+							54
+						]
+					},
+					{
+						"screen_name": "webfashioner",
+						"name": "webfashioner 🆘",
+						"id": 60297891,
+						"id_str": "60297891",
+						"indices": [
+							55,
+							68
+						]
+					},
+					{
+						"screen_name": "Cherfan4ever1",
+						"name": "Cherfan4ever🆘🌎🕊💕🦋",
+						"id": 1109637669183725600,
+						"id_str": "1109637669183725568",
+						"indices": [
+							69,
+							83
+						]
+					},
+					{
+						"screen_name": "PattiKimble",
+						"name": "Patti Kimble 🆘",
+						"id": 735103080,
+						"id_str": "735103080",
+						"indices": [
+							84,
+							96
+						]
+					},
+					{
+						"screen_name": "KaKaKaKatyLady",
+						"name": "Katy",
+						"id": 1179777733301346300,
+						"id_str": "1179777733301346304",
+						"indices": [
+							97,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8CedZFgWlW",
+						"expanded_url": "https://twitter.com/i/web/status/1201957142263148550",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1201955143752855600,
+			"in_reply_to_status_id_str": "1201955143752855552",
+			"in_reply_to_user_id": 34350123,
+			"in_reply_to_user_id_str": "34350123",
+			"in_reply_to_screen_name": "network_gal",
+			"user": {
+				"id": 758215958221688800,
+				"id_str": "758215958221688832",
+				"name": "RobynCherCrew 🆘",
+				"screen_name": "RobynCherChew",
+				"location": "",
+				"description": "Cher SAVED MY LIFE💞Married🚫DM/mom/RN. #Resister fktrump #impeachtrump Twitter activated '16 not active until '18 windmill ca. sucks😩#trumpprison2020",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6293,
+				"friends_count": 6280,
+				"listed_count": 3,
+				"created_at": "Wed Jul 27 08:22:26 +0000 2016",
+				"favourites_count": 69132,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26876,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1152488540258885639/3Od0st4j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152488540258885639/3Od0st4j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/758215958221688832/1569032014",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:25 +0000 2019",
+			"id": 1201957128501641200,
+			"id_str": "1201957128501641222",
+			"text": "@cmckenney But I can no longer go to sledge hockey because 2 hours past my pick up time Sunday I still could not ge… https://t.co/DTD4yzDXxv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cmckenney",
+						"name": "Catherine McKenney",
+						"id": 16785360,
+						"id_str": "16785360",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DTD4yzDXxv",
+						"expanded_url": "https://twitter.com/i/web/status/1201957128501641222",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1201949411099783200,
+			"in_reply_to_status_id_str": "1201949411099783169",
+			"in_reply_to_user_id": 16785360,
+			"in_reply_to_user_id_str": "16785360",
+			"in_reply_to_screen_name": "cmckenney",
+			"user": {
+				"id": 518931533,
+				"id_str": "518931533",
+				"name": "KK",
+				"screen_name": "k915k",
+				"location": "Hell",
+				"description": "Too many labels to list and fighting to live in a cruel world while trying to help and cheer others up. He/him/they/theirs",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29,
+				"friends_count": 146,
+				"listed_count": 3,
+				"created_at": "Thu Mar 08 22:13:57 +0000 2012",
+				"favourites_count": 2021,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3383,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1119935793860976640/dlusj9cA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119935793860976640/dlusj9cA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/518931533/1555845051",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:24 +0000 2019",
+			"id": 1201957126501027800,
+			"id_str": "1201957126501027840",
+			"text": "omfg it's so cold wtf im freezing 😭 i love the cold weather because it gets me hyped for the holidays but at the sa… https://t.co/Zpi0gYEAFZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Zpi0gYEAFZ",
+						"expanded_url": "https://twitter.com/i/web/status/1201957126501027840",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1111142407796609000,
+				"id_str": "1111142407796609024",
+				"name": "mimi ♡",
+				"screen_name": "femmehousewife",
+				"location": "",
+				"description": "19 ♡ she/her ♡ ⚢",
+				"url": "https://t.co/JqB8izaqBK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JqB8izaqBK",
+								"expanded_url": "https://cinnamorolll.carrd.co",
+								"display_url": "cinnamorolll.carrd.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 61,
+				"friends_count": 266,
+				"listed_count": 1,
+				"created_at": "Thu Mar 28 05:46:08 +0000 2019",
+				"favourites_count": 3929,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1230,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1197273170551685120/hcOvXg_Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197273170551685120/hcOvXg_Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1111142407796609024/1566025243",
+				"profile_link_color": "E3BABA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:24 +0000 2019",
+			"id": 1201957123808202800,
+			"id_str": "1201957123808202756",
+			"text": "RT @aproko_doctor: A lot of people currently have the common cold \n\n1. Sneeze into your elbows not hands\n2. Use tissue papers to clean your…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aproko_doctor",
+						"name": "Aproko Doctor™",
+						"id": 308269557,
+						"id_str": "308269557",
+						"indices": [
+							3,
+							17
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1379448146,
+				"id_str": "1379448146",
+				"name": "Toniro 🇳🇬",
+				"screen_name": "TonyToniro",
+				"location": "Minna, Nigeria",
+				"description": "Am a Hustler, dreams of a better country. a football analyst ⚽ social commentator and a RealMadrid fan.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 33,
+				"friends_count": 37,
+				"listed_count": 2,
+				"created_at": "Thu Apr 25 13:19:56 +0000 2013",
+				"favourites_count": 533,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1305,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1190627129798602753/Fa_r_uLW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190627129798602753/Fa_r_uLW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1379448146/1572702587",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Tue Dec 03 06:10:08 +0000 2019",
+				"id": 1201745414082506800,
+				"id_str": "1201745414082506752",
+				"text": "A lot of people currently have the common cold \n\n1. Sneeze into your elbows not hands\n2. Use tissue papers to clean… https://t.co/5S6PFZMCNW",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/5S6PFZMCNW",
+							"expanded_url": "https://twitter.com/i/web/status/1201745414082506752",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 308269557,
+					"id_str": "308269557",
+					"name": "Aproko Doctor™",
+					"screen_name": "aproko_doctor",
+					"location": "Lagos Nigeria",
+					"description": "Award winning Medical Doctor/Lifestyle/Preventive Medicine/\nContent Creator/Brand Awareness and\nCommunications/\nHealth Promotion\n\n📩\nbobbyegemba@gmail.com",
+					"url": "https://t.co/A0TZh4wWAr",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/A0TZh4wWAr",
+									"expanded_url": "http://aprokodoctor.com",
+									"display_url": "aprokodoctor.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 107163,
+					"friends_count": 6300,
+					"listed_count": 148,
+					"created_at": "Tue May 31 03:34:01 +0000 2011",
+					"favourites_count": 27546,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 42420,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1191826871568207873/dALomLlW_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191826871568207873/dALomLlW_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/308269557/1574966743",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1634,
+				"favorite_count": 2035,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 1634,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:23 +0000 2019",
+			"id": 1201957120540729300,
+			"id_str": "1201957120540729344",
+			"text": "@OriginalFunko There’s so many, you can do the angels, the destroyers, broly from the new movie, gogeta, all forms… https://t.co/b9X2J2Ivdm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OriginalFunko",
+						"name": "Funko",
+						"id": 1378000488,
+						"id_str": "1378000488",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/b9X2J2Ivdm",
+						"expanded_url": "https://twitter.com/i/web/status/1201957120540729344",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1201946728833917000,
+			"in_reply_to_status_id_str": "1201946728833916930",
+			"in_reply_to_user_id": 1378000488,
+			"in_reply_to_user_id_str": "1378000488",
+			"in_reply_to_screen_name": "OriginalFunko",
+			"user": {
+				"id": 1067116066420088800,
+				"id_str": "1067116066420088832",
+				"name": "Victor Chang",
+				"screen_name": "VictorC76659844",
+				"location": "Meridian, ID",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14,
+				"friends_count": 98,
+				"listed_count": 0,
+				"created_at": "Mon Nov 26 18:01:11 +0000 2018",
+				"favourites_count": 215,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 161,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1070379475349565440/mRS76IUU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070379475349565440/mRS76IUU_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Dec 03 20:11:19 +0000 2019",
+			"id": 1201957102861852700,
+			"id_str": "1201957102861852673",
+			"text": "@___malekaaa Yeah ok. Take it from me who gets ACTIVE. Bitch I got choked and slapped so cold one day. I haven’t talked shit to him since",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "___malekaaa",
+						"name": "leek",
+						"id": 153221738,
+						"id_str": "153221738",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1201956701903167500,
+			"in_reply_to_status_id_str": "1201956701903167489",
+			"in_reply_to_user_id": 153221738,
+			"in_reply_to_user_id_str": "153221738",
+			"in_reply_to_screen_name": "___malekaaa",
+			"user": {
+				"id": 180119377,
+				"id_str": "180119377",
+				"name": "December 10th ♐️",
+				"screen_name": "herways__",
+				"location": "In My OWN Lane ",
+				"description": "DEGREED 👩🏽‍🎓& LIVING 🤸🏾‍♀️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1618,
+				"friends_count": 162,
+				"listed_count": 2,
+				"created_at": "Wed Aug 18 21:55:06 +0000 2010",
+				"favourites_count": 2087,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28610,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1148084936001429504/mlxUoKG8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148084936001429504/mlxUoKG8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/180119377/1562559754",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		}
+	],
+	"search_metadata": {
+		"completed_in": 0.053,
+		"max_id": 1201957248131571700,
+		"max_id_str": "1201957248131571712",
+		"next_results": "?max_id=1201957102861852672&q=so%20cold&include_entities=1",
+		"query": "so+cold",
+		"refresh_url": "?since_id=1201957248131571712&q=so%20cold&include_entities=1",
+		"count": 15,
+		"since_id": 0,
+		"since_id_str": "0"
+	}
+}
