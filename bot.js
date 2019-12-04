@@ -40,10 +40,10 @@ const botTweet = () => {
             tweetObj.tweet_id = tweets.statuses[tweet].id;
             tweetObj.url = tweets.statuses[tweet].url;
             tweetObj.user = tweets.statuses[tweet].user.screen_name;
-            tweetObj.location =tweets.statuses[tweet].user.location;
+            tweetObj.location = tweets.statuses[tweet].user.location;
 
             //push the object to the array IF the tweet was created with a location
-            if (tweetObj.location !== undefined) {
+            if (tweetObj.location !== "") {
                 tweetList.push(tweetObj);
             }
         }
@@ -60,10 +60,13 @@ const botTweet = () => {
                 `It's super cold out in ${tweet.location}, thanks @${tweet.user}.`,
                 `We're getting word ${tweet.location} is cold AF, thanks @${tweet.user}.`,
                 `Bundle up, ${tweet.location}! @${tweet.user} says it's cold out.`,
-                `Planet Hoth or ${tweet.location}?? It's FREEZING according to @${tweet.user}`
+                `Planet Hoth or ${tweet.location}? It's FREEZING according to @${tweet.user}`,
+                `@${tweet.user} is in need of some HEAT over in ${tweet.location} #freezing`,
+                `It's too damn cold, ${tweet.location}. Am I right @${tweet.user}?`
             ]
-            
+
             randomStatement = generateRandom(statements);
+            console.log(statements[randomStatement])
             return statements[randomStatement];
         }
 
@@ -82,6 +85,8 @@ const botTweet = () => {
             client.post('statuses/update', {status: tweetGen(chosenTweet)}, function(error, tweet, response) {
                 if (!error) {
                     console.log('tweeted!');
+                } else {
+                    console.log(error)
                 }
             });
         }
